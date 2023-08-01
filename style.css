@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 72px;
+    font-weight: 600;
+    color: white;
+    opacity: .8;
+}
+body{
+    
+    background-size: cover;
+    background-image: linear-gradient(rgba(18, 59, 66, 0.349), rgb(50, 177, 203)),url('https://img.freepik.com/premium-photo/dj-audio-mixer-controller-mixing-electronic-music-nightclub-party-selective-focus-2d-illustration_67092-1396.jpg')
+}
